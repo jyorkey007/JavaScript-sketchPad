@@ -1,2 +1,3 @@
 # JavaScript-sketchPad
-odin javascript project
+
+Cross between a etch-a-sketch and sketchPad. Enjoy!
